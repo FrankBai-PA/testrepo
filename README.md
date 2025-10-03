@@ -1,3 +1,3 @@
 # testrepo
 
-# Git is a version control system and GitHub is a repo to storage files.
+# Git is a versatile version control system used for tracking chnages in code and collaborating with others on software projects. 
